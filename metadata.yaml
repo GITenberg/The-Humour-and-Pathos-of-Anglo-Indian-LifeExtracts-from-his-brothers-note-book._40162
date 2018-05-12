@@ -1,0 +1,26 @@
+_repo: The-Humour-and-Pathos-of-Anglo-Indian-LifeExtracts-from-his-brothers-note-book._40162
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40162-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mayer, J. E.
+    gutenberg_agent_id: '40449'
+    url: http://www.gutenberg.org/2009/agents/40449
+description: ''
+gutenberg_issued: '2012-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- India'
+- !lcsh 'India -- Social life and customs'
+- !lcc 'DS'
+title: "The Humour and Pathos of Anglo-Indian Life\r\nExtracts from his brother's\
+  \ note-book, made by Dr. Ticklemore"
+url: http://www.gutenberg.org/ebooks/40162
