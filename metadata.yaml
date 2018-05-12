@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40449'
     url: http://www.gutenberg.org/2009/agents/40449
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40162#The-Humour-and-Pathos-of-Anglo-Indian-LifeExtracts-from-his-brothers-note-book.
 gutenberg_issued: '2012-07-08'
 gutenberg_type: Text
 identifiers:
